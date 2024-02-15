@@ -9,3 +9,4 @@ Clustering é uma técnica de aprendizado não supervisionado que envolve a orga
 ### K-means:
 
 O K-means é um dos algoritmos de clustering mais populares. Ele divide um conjunto de dados em K clusters, onde K é um número predefinido pelo usuário. A ideia central do K-means é atribuir cada ponto de dados ao cluster cujo centro (média) é mais próximo. O algoritmo então recalcula os centros dos clusters e reatribui os pontos até que a convergência seja alcançada.
+![Banner](imagem_2024-02-15_122808295.png)
